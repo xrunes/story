@@ -1,2 +1,3 @@
-# story
-Both of mine stories.
+# Headline
+
+> An awesome project.
